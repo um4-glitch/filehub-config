@@ -1,7 +1,8 @@
 {
-  "url": "https://cartridge-thumbzilla-staying-soccer.trycloudflare.com",
+  "url": "https://expiration-governing-endless-left.trycloudflare.com",
   "lan": [
-    "http://192.168.0.19:5052"
+    "http://192.168.0.10:5052",
+    "http://192.168.137.1:5052"
   ],
-  "updated": "2026-06-20T11:08:06Z"
+  "updated": "2026-06-23T21:39:36Z"
 }
