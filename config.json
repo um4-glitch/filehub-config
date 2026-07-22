@@ -1,7 +1,8 @@
 {
-  "url": "https://tracked-website-deputy-regulated.trycloudflare.com",
+  "url": "https://edited-pike-flow-resorts.trycloudflare.com",
   "lan": [
-    "http://192.168.0.15:5052"
+    "http://192.168.0.10:5052",
+    "http://192.168.137.1:5052"
   ],
-  "updated": "2026-07-21T11:46:57Z"
+  "updated": "2026-07-22T17:58:06Z"
 }
