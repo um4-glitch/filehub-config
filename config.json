@@ -1,7 +1,8 @@
 {
-  "url": "https://missions-leaves-expo-qualify.trycloudflare.com",
+  "url": "https://beijing-library-kick-advisors.trycloudflare.com",
   "lan": [
-    "http://192.168.0.14:5052"
+    "http://192.168.0.14:5052",
+    "http://192.168.137.1:5052"
   ],
-  "updated": "2026-07-27T22:49:46Z"
+  "updated": "2026-07-28T13:04:18Z"
 }
