@@ -1,7 +1,8 @@
 {
-  "url": "https://jobs-leu-course-announce.trycloudflare.com",
+  "url": "https://ceo-permissions-concerning-alfred.trycloudflare.com",
   "lan": [
-    "http://192.168.0.13:5052"
+    "http://192.168.0.13:5052",
+    "http://192.168.137.1:5052"
   ],
-  "updated": "2026-08-18T00:10:25Z"
+  "updated": "2026-08-20T00:29:55Z"
 }
