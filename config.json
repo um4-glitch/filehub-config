@@ -1,7 +1,8 @@
 {
-  "url": "https://techno-aug-publications-duration.trycloudflare.com",
+  "url": "https://focused-meetup-optical-feeds.trycloudflare.com",
   "lan": [
-    "http://192.168.0.14:5052"
+    "http://192.168.0.14:5052",
+    "http://192.168.137.1:5052"
   ],
-  "updated": "2026-08-28T16:54:10Z"
+  "updated": "2026-08-28T23:59:28Z"
 }
