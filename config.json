@@ -1,8 +1,7 @@
 {
-  "url": "https://mails-against-staffing-forms.trycloudflare.com",
+  "url": "https://provider-beads-asylum-ball.trycloudflare.com",
   "lan": [
-    "http://192.168.0.14:5052",
-    "http://192.168.137.1:5052"
+    "http://192.168.0.10:5052"
   ],
-  "updated": "2026-09-05T22:13:21Z"
+  "updated": "2026-09-07T05:46:34Z"
 }
