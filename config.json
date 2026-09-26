@@ -1,7 +1,8 @@
 {
-  "url": "https://grocery-mysterious-suggests-ids.trycloudflare.com",
+  "url": "https://suited-neo-acids-galleries.trycloudflare.com",
   "lan": [
-    "http://192.168.0.16:5052"
+    "http://192.168.0.16:5052",
+    "http://192.168.137.1:5052"
   ],
-  "updated": "2026-09-24T03:28:44Z"
+  "updated": "2026-09-26T02:04:26Z"
 }
