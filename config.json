@@ -1,7 +1,8 @@
 {
-  "url": "https://remaining-goes-topics-conditioning.trycloudflare.com",
+  "url": "https://api.trycloudflare.com",
   "lan": [
+    "http://192.168.0.15:5052",
     "http://192.168.0.17:5052"
   ],
-  "updated": "2026-10-09T01:13:37Z"
+  "updated": "2026-10-09T05:00:02Z"
 }
