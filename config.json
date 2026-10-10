@@ -1,8 +1,8 @@
 {
-  "url": "https://api.trycloudflare.com",
+  "url": "https://coding-least-monetary-belle.trycloudflare.com",
   "lan": [
     "http://192.168.0.15:5052",
-    "http://192.168.0.17:5052"
+    "http://192.168.137.1:5052"
   ],
-  "updated": "2026-10-09T05:00:02Z"
+  "updated": "2026-10-10T04:44:32Z"
 }
