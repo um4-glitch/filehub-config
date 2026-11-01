@@ -1,7 +1,8 @@
 {
-  "url": "https://sol-challenge-consists-engage.trycloudflare.com",
+  "url": "https://teams-adjusted-shower-six.trycloudflare.com",
   "lan": [
-    "http://192.168.0.15:5052"
+    "http://192.168.0.15:5052",
+    "http://192.168.137.1:5052"
   ],
-  "updated": "2026-10-30T00:58:55Z"
+  "updated": "2026-11-01T18:20:46Z"
 }
