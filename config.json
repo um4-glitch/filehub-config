@@ -1,7 +1,8 @@
 {
-  "url": "https://francis-thinkpad-facility-conducting.trycloudflare.com",
+  "url": "https://beth-robot-addresses-reg.trycloudflare.com",
   "lan": [
-    "http://192.168.0.10:5052"
+    "http://192.168.0.10:5052",
+    "http://192.168.137.1:5052"
   ],
-  "updated": "2026-11-09T13:24:47Z"
+  "updated": "2026-11-10T02:03:14Z"
 }
