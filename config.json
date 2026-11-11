@@ -1,8 +1,6 @@
 {
-  "url": "https://notebook-studios-mention-quiet.trycloudflare.com",
-  "lan": [
-    "http://192.168.0.10:5052",
-    "http://192.168.137.1:5052"
-  ],
-  "updated": "2026-11-11T00:15:21Z"
+  "url": "",
+  "lan": [],
+  "updated": "2026-11-11T03:35:13Z",
+  "disabled": true
 }
